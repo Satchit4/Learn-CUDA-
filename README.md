@@ -7,9 +7,9 @@ This repository contains benchmark comparisons for Matrix Multiplication and Mat
 
 ## Prerequisites
 
--   **Linux OS** (Tested on Ubuntu)
+-   **Linux OS** (Tested on Ubuntu Mint)
 -   **GCC**
--   **MPI** (e.g., MPICH or OpenMPI)
+-   **MPI** (e.g., MPICH or OpenMPI) [Documnetation](https://www.mpich.org/documentation/guides/)
 -   **CUDA Toolkit** (for `nvcc` compiler) [Documentation](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
 -   **ZLUDA**: For running CUDA applications on AMD GPUs.
 
